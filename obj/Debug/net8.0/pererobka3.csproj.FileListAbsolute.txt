@@ -1,0 +1,15 @@
+C:\Users\НР\Desktop\proj2\pererobka3\pererobka3\bin\Debug\net8.0\pererobka3.exe
+C:\Users\НР\Desktop\proj2\pererobka3\pererobka3\bin\Debug\net8.0\pererobka3.deps.json
+C:\Users\НР\Desktop\proj2\pererobka3\pererobka3\bin\Debug\net8.0\pererobka3.runtimeconfig.json
+C:\Users\НР\Desktop\proj2\pererobka3\pererobka3\bin\Debug\net8.0\pererobka3.dll
+C:\Users\НР\Desktop\proj2\pererobka3\pererobka3\bin\Debug\net8.0\pererobka3.pdb
+C:\Users\НР\Desktop\proj2\pererobka3\pererobka3\obj\Debug\net8.0\pererobka3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НР\Desktop\proj2\pererobka3\pererobka3\obj\Debug\net8.0\pererobka3.AssemblyInfoInputs.cache
+C:\Users\НР\Desktop\proj2\pererobka3\pererobka3\obj\Debug\net8.0\pererobka3.AssemblyInfo.cs
+C:\Users\НР\Desktop\proj2\pererobka3\pererobka3\obj\Debug\net8.0\pererobka3.csproj.CoreCompileInputs.cache
+C:\Users\НР\Desktop\proj2\pererobka3\pererobka3\obj\Debug\net8.0\pererobka3.sourcelink.json
+C:\Users\НР\Desktop\proj2\pererobka3\pererobka3\obj\Debug\net8.0\pererobka3.dll
+C:\Users\НР\Desktop\proj2\pererobka3\pererobka3\obj\Debug\net8.0\refint\pererobka3.dll
+C:\Users\НР\Desktop\proj2\pererobka3\pererobka3\obj\Debug\net8.0\pererobka3.pdb
+C:\Users\НР\Desktop\proj2\pererobka3\pererobka3\obj\Debug\net8.0\pererobka3.genruntimeconfig.cache
+C:\Users\НР\Desktop\proj2\pererobka3\pererobka3\obj\Debug\net8.0\ref\pererobka3.dll
